@@ -1,18 +1,3 @@
-/*
-Navicat MySQL Data Transfer
-
-Source Server         : greyzer
-Source Server Version : 50554
-Source Host           : 51.255.133.141:3306
-Source Database       : twitchchat
-
-Target Server Type    : MYSQL
-Target Server Version : 50554
-File Encoding         : 65001
-
-Date: 2017-02-26 19:57:14
-*/
-
 SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------
